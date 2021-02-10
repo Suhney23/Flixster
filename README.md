@@ -20,7 +20,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/SeI1p2p" width=250><br>
+<img src="https://imgur.com/a/S7HwW9t" width=250><br>
 
 ### Notes
 Had some challenges with the Youtube video nto loading. Used an older version of SDK to fix problem. 
